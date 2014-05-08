@@ -1,0 +1,389 @@
+\pagenumbering{arabic}
+\setcounter{section}{0}
+\section{Έσοδα/Έξοδα}
+\vspace{0.5cm}
+\begin{large}
+\begin{tabular}{|>{\centering\arraybackslash}p{1cm}|>{\centering\arraybackslash}p{3.2cm}|>{\centering\arraybackslash}p{3.2cm}|>{\centering\arraybackslash}p{3.2cm}|>{\centering\arraybackslash}p{3cm}|}
+\hline
+Α/Σ &Αρχικό ποσό στο ταμείο & Έσοδα/Έξοδα & Τελικό ποσό στο ταμείο & Ο Ταμίας \\ \hline
+1&&&& \\ \hline
+2&&&& \\ \hline
+3&&&& \\ \hline
+4&&&& \\ \hline
+5&&&& \\ \hline
+6&&&& \\ \hline
+7&&&& \\ \hline
+8&&&& \\ \hline
+9&&&& \\ \hline
+10&&&& \\ \hline
+11&&&& \\ \hline
+12&&&& \\ \hline
+13&&&& \\ \hline
+14&&&& \\ \hline
+15&&&& \\ \hline
+16&&&& \\ \hline
+17&&&& \\ \hline
+18&&&& \\ \hline
+19&&&& \\ \hline
+20&&&& \\ \hline
+21&&&& \\ \hline
+22&&&& \\ \hline
+23&&&& \\ \hline
+24&&&& \\ \hline
+25&&&& \\ \hline
+26&&&& \\ \hline
+27&&&& \\ \hline
+28&&&& \\ \hline
+29&&&& \\ \hline
+30&&&& \\ \hline
+\end{tabular}
+\end{large}
+\newpage
+\begin{Large}
+\begin{tabular}{|>{\centering\arraybackslash}p{1cm}|>{\centering\arraybackslash}p{3.2cm}|>{\centering\arraybackslash}p{3.2cm}|>{\centering\arraybackslash}p{3.2cm}|>{\centering\arraybackslash}p{3cm}|}
+\hline
+Α/Σ &Αρχικό ποσό στο ταμείο & Έσοδα/Έξοδα & Τελικό ποσό στο ταμείο & Ο Ταμίας \\ \hline
+31&&&& \\ \hline
+32&&&& \\ \hline
+33&&&& \\ \hline
+34&&&& \\ \hline
+35&&&& \\ \hline
+36&&&& \\ \hline
+37&&&& \\ \hline
+38&&&& \\ \hline
+39&&&& \\ \hline
+40&&&& \\ \hline
+41&&&& \\ \hline
+42&&&& \\ \hline
+43&&&& \\ \hline
+44&&&& \\ \hline
+45&&&& \\ \hline
+46&&&& \\ \hline
+47&&&& \\ \hline
+48&&&& \\ \hline
+49&&&& \\ \hline
+50&&&& \\ \hline
+51&&&& \\ \hline
+52&&&& \\ \hline
+53&&&& \\ \hline
+54&&&& \\ \hline
+55&&&& \\ \hline
+56&&&& \\ \hline
+57&&&& \\ \hline
+58&&&& \\ \hline
+59&&&& \\ \hline
+60&&&& \\ \hline
+\end{tabular}
+\end{Large}
+\footnote{Α/Σ = Αριθμός Συναλλαγής \textdagger}
+\newpage
+\section{Συναλλαγές}
+\vspace{0.5cm}
+\begin{Large}
+\begin{tabular}{|>{\centering\arraybackslash}p{1.5cm} |>{\centering\arraybackslash}p{1cm} | >{\centering\arraybackslash}p{4cm} | >{\centering\arraybackslash}p{2.5cm} | 
+>{\centering\arraybackslash}p{2cm}|>{\centering\arraybackslash}p{2cm}|}
+\hline
+&Α/Σ & Αγοραστέο & Ποσότητα & Τιμή & Σύνολο \\ \hline
+& 1 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 2 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 3 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 4 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 5 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 6 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 7 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 8 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+\end{tabular}
+\end{Large}
+\newpage
+\begin{Large}
+\begin{tabular}{|>{\centering\arraybackslash}p{1.5cm} |>{\centering\arraybackslash}p{1cm} | >{\centering\arraybackslash}p{4cm} | >{\centering\arraybackslash}p{2.5cm} | 
+>{\centering\arraybackslash}p{2cm}|>{\centering\arraybackslash}p{2cm}|}
+\hline
+&Α/Σ & Αγοραστέο & Ποσότητα & Τιμή & Σύνολο \\ \hline
+& 9 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 10 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 11 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 12 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 13 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 14 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 15 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 16 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+\end{tabular}
+\end{Large}
+\newpage
+\begin{Large}
+\begin{tabular}{|>{\centering\arraybackslash}p{1.5cm} |>{\centering\arraybackslash}p{1cm} | >{\centering\arraybackslash}p{4cm} | >{\centering\arraybackslash}p{2.5cm} | 
+>{\centering\arraybackslash}p{2cm}|>{\centering\arraybackslash}p{2cm}|}
+\hline
+&Α/Σ & Αγοραστέο & Ποσότητα & Τιμή & Σύνολο \\ \hline
+& 17 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 18 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 19 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 20 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 21 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 22 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 23 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 24 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+\end{tabular}
+\end{Large}
+
+\newpage
+\begin{Large}
+\begin{tabular}{|>{\centering\arraybackslash}p{1.5cm} |>{\centering\arraybackslash}p{1cm} | >{\centering\arraybackslash}p{4cm} | >{\centering\arraybackslash}p{2.5cm} | 
+>{\centering\arraybackslash}p{2cm}|>{\centering\arraybackslash}p{2cm}|}
+\hline
+&Α/Σ & Αγοραστέο & Ποσότητα & Τιμή & Σύνολο \\ \hline
+& 25 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 26 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 27 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 28 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 29 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 30 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 31 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 32 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+\end{tabular}
+\end{Large}
+
+\newpage
+\begin{Large}
+\begin{tabular}{|>{\centering\arraybackslash}p{1.5cm} |>{\centering\arraybackslash}p{1cm} | >{\centering\arraybackslash}p{4cm} | >{\centering\arraybackslash}p{2.5cm} | 
+>{\centering\arraybackslash}p{2cm}|>{\centering\arraybackslash}p{2cm}|}
+\hline
+&Α/Σ & Αγοραστέο & Ποσότητα & Τιμή & Σύνολο \\ \hline
+& 33 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 34 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 35 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 36 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 37 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 38 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 39 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 40 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+\end{tabular}
+\end{Large}
+
+\newpage
+\begin{Large}
+\begin{tabular}{|>{\centering\arraybackslash}p{1.5cm} |>{\centering\arraybackslash}p{1cm} | >{\centering\arraybackslash}p{4cm} | >{\centering\arraybackslash}p{2.5cm} | 
+>{\centering\arraybackslash}p{2cm}|>{\centering\arraybackslash}p{2cm}|}
+\hline
+&Α/Σ & Αγοραστέο & Ποσότητα & Τιμή & Σύνολο \\ \hline
+& 41 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 42 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 43 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 44 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 45 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 46 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 47 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 48 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+\end{tabular}
+\end{Large}
+
+\newpage
+\begin{Large}
+\begin{tabular}{|>{\centering\arraybackslash}p{1.5cm} |>{\centering\arraybackslash}p{1cm} | >{\centering\arraybackslash}p{4cm} | >{\centering\arraybackslash}p{2.5cm} | 
+>{\centering\arraybackslash}p{2cm}|>{\centering\arraybackslash}p{2cm}|}
+\hline
+&Α/Σ & Αγοραστέο & Ποσότητα & Τιμή & Σύνολο \\ \hline
+& 49 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 50 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 51 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 52 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 53 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 54 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 55 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 56 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+\end{tabular}
+\end{Large}
+
+\newpage
+\begin{Large}
+\begin{tabular}{|>{\centering\arraybackslash}p{1.5cm} |>{\centering\arraybackslash}p{1cm} | >{\centering\arraybackslash}p{4cm} | >{\centering\arraybackslash}p{2.5cm} | 
+>{\centering\arraybackslash}p{2cm}|>{\centering\arraybackslash}p{2cm}|}
+\hline
+&Α/Σ & Αγοραστέο & Ποσότητα & Τιμή & Σύνολο \\ \hline
+& 57 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 58 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 59 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+& 60 &&&& \\ \hline
+\multicolumn{2}{|c|}{\multirow{3}{*}{ Σχόλια} } & \multicolumn{4}{c|}{} \\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\
+\multicolumn{2}{|c|}{}&\multicolumn{4}{c|}{}\\ \hline
+\end{tabular}
+\end{Large}

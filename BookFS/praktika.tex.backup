@@ -1,0 +1,67 @@
+\setcounter{section}{0}
+\section{Συνεδρίαση}
+\begin{Large}
+\begin{tabular}{|l|>{\centering\arraybackslash}p{1.5cm}|>{\centering\arraybackslash}p{1.3cm}|}
+\hline
+Ημερομηνία & \multicolumn{2}{l|}{ \hspace{0.7cm}-\hspace{0.7cm}-\hspace{1.4cm}} \\ \hline
+Αριθμός Παρόντων Φοιτητών & \multicolumn{2}{c|}{}\\ \hline
+Απαρτία & ναι & όχι \\ \hline
+\end{tabular}
+\end{Large}
+\vspace{1cm}
+\section{Συζητήθηκαν}
+\begin{Large}
+\begin{enumerate}
+ \item 
+ \item 
+ \item 
+ \item 
+ \item 
+\end{enumerate}
+\begin{center}
+\line(1,0){8cm} \\
+\line(1,0){8cm} \\
+\line(1,0){8cm} \\
+\end{center}
+\end{Large}
+
+\section{Προτάθηκαν}
+\begin{Large}
+\begin{itemize}
+ \item 
+ \item 
+ \item 
+ \item 
+ \item 
+ \item 
+ \item
+ \item
+\end{itemize}
+\end{Large}
+
+\section{Αποφασίστηκε}
+\begin{Large}
+\begin{itemize}
+ \item 
+ \item 
+ \item 
+ \item 
+ \item 
+ \item 
+ \item
+ \item
+\end{itemize}
+\end{Large}
+
+\vspace{12cm}
+\begin{Large}
+\begin{center}
+\begin{tabular}{c}
+Ο Γραμματέας του Φ.Σ\\
+ \\
+ \\
+\cline{1-1}\\
+\end{tabular}
+\end{center}
+\end{Large}
+\newpage
